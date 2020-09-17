@@ -7,6 +7,9 @@
 
     
 /*---navbar--*/
+.step1{
+    background: #2c3a4783;
+}
 .step0{
     padding-top: 1.2rem;
 }
@@ -32,7 +35,7 @@ margin-left: 25rem;
     text-align: right;
 }
 .step3{
-    padding-left: 4rem;
+    padding-left: 2rem;
     padding-right: 1rem;
     
 }
@@ -53,7 +56,8 @@ margin-left: 25rem;
     background-repeat: no-repeat;
     background-position: center;
     background-attachment: fixed;
-    height: 35rem;
+    height: 40rem;
+
     
 }
 @media screen and (max-width:768px){
@@ -103,7 +107,7 @@ header h1{
 .step4 p{
     text-align:center;
     font-weight: 400;
-    font-size: 1.5rem;
+    font-size: 1.4rem;
     
     font-family: cursive;
     color: #dcdde1;
@@ -118,16 +122,35 @@ header h1{
     font-family: cursive;
     color: #dcdde1;
 }
-/*--section---*/
-.meme img{
-   height: 450px;
+.row.step5{
+    position: absolute;
+    top:60%;
+    left:85%;
+    transform: translate(-60%,-85%);
+    text-align:right;
+    clear: both;
+    overflow: hidden;
 }
+.social i{
+    border-radius: 5px;
+    padding: 10px;
+    
+    
+}
+.social i:hover{
+    background: #F97F51 ;
+}
+
+
+
+
 /*footer*/
 .fot{
     padding: 20px;
-    margin-top: 20px;
+    
     height: 80px;
     text-align: center;
+    background:  #2c3a47;
 
 
 }
