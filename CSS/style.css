@@ -56,7 +56,7 @@ margin-left: 25rem;
     background-repeat: no-repeat;
     background-position: center;
     background-attachment: fixed;
-    height: 40rem;
+    height: 55rem;
 
     
 }
@@ -140,7 +140,9 @@ header h1{
 .social i:hover{
     background: #F97F51 ;
 }
-
+.social a{
+    color: white;
+}
 
 
 
