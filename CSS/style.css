@@ -56,7 +56,7 @@ margin-left: 25rem;
     background-repeat: no-repeat;
     background-position: center;
     background-attachment: fixed;
-    height: 45rem;
+    height: 55rem;
 
     
 }
@@ -89,9 +89,9 @@ margin-left: 25rem;
 }
 .step4{
     position: absolute;
-    top:60%;
+    top:58%;
     left: 40%;
-    transform: translate(-60%,-40%);
+    transform: translate(-58%,-40%);
  
     text-align: center;
     clear: both;
