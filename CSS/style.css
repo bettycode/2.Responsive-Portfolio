@@ -190,7 +190,7 @@ section .about{
  .text-me p{
     font-style: italic!important;
 }
-.about-icon ul i{
+.about-icon ul svg{
     font-size: 20px;
     padding-right: 2px;
     color:  #F97F51;
