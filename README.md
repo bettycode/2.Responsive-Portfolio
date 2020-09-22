@@ -1,42 +1,27 @@
+
+
 # 2.Responsive-Portfolio
 
-Hello, 
+In this Responsive Portfolio, I tried to showcase what am able to do . I focused more on developing  the website.
 
-My name is Bethelem Balcha and this is the description for my Responsive Portfolio.
-
+Directions
 
 The steps I took to make this responsive portfolio website:-
 
-1. I created my files :index.html, portfolio.html and contact.html.
+	-  I created index.html page, portfolio.html page and contact.html page.
 
-2. Using Bootstrap I was able to create the lay out of the pages.
-       
+	- Using Bootstrap I was able to create Navbar, containers, rows, columns, buttons and links.      
 
-	- In my index.html page I used :-
-		
-		* Navbar layout 
-		* Containers
-		* Rows
-		* Columns and 	
-		* Link
-		* icons
+	- I made sure all my pages have consistent Navbar and Footer.
 	
-	- The next page is portfolio.html page.
-		
-		* In this page I used the same layout for navbar, footer and background but the main section contains
-	 	 "Cards" that creates beautiful responsive gallery layouts.
+	- In the portfolio page I added "cards" which created responsive gallery layout.
+ 
+	- In the contact page I created "Form" using Bootstrap. I have also included links, button, Icons .
 
+	- I styled the pages using style.css. I used separate styling pages, I didn't want to have one big CSS file.  
+	
+	- I used media queries and other elements that would make the page responsive and work on mobile . 
 
-	- The last page is contact.html Page .
+	- I validated my work using w3 website.
 
-
-		* I used similar layout for this page as well. This page used "Forms", that is 
-		  the main difference from the other pages. 
-		* It also contains links, button and Icons.
-
-3. Next I created style.css for each page. I didn't want to have one big CSS file. In the CSS files i added margins, padding, color, 
-
-   background, media queries and other elements that would make the page great. 
-
-
-   Thank you!
+	- I made sure all pages and links work the way they should.
