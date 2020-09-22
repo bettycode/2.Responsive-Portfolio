@@ -56,7 +56,7 @@ margin-left: 25rem;
     background-repeat: no-repeat;
     background-position: center;
     background-attachment: fixed;
-    height: 55rem;
+    height: 50rem;
 
     
 }
@@ -146,8 +146,10 @@ header h1{
 /*--About--*/
 .about-section{
     background:rgba(0, 0, 0, 0.884);
+    padding-bottom: 4rem;
+    padding-top: 2rem;
 }
-section .container{
+section .about{
     background:rgba(0, 0, 0, 0.884) ;
     padding: 40px;
 
@@ -201,7 +203,14 @@ section .container{
 .about-icon ul li{
     padding-bottom: 15px;
 }
-
+section .skill{
+    background: rgba(0, 0, 0, 0.884);
+    padding: 40px;
+}
+.skill-title{
+    padding: 20px;
+    margin-top: 4px;
+}
 .skill-title h2{
     font-size: 14px;
     font-weight: 500;
@@ -248,6 +257,19 @@ section .container{
     transition: .9s;
     background-color:#F97F51;
 }
+/*--button--*/
+.button-center-btn{
+    text-align:center!important ;
+    padding-top: 3rem;
+    
+}
+.btn-color{
+    background: #F97F51!important;
+    border-color:#F97F51!important ;
+    font-family: "Open Sans", sans-serif;
+    color: white;
+}
+
 
 
 /*footer*/

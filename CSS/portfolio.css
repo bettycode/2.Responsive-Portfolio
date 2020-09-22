@@ -7,13 +7,13 @@
     /*height: 55rem;*/
     padding-top: 10rem;
     padding-bottom: 4rem;
-    
+
 }
 
 .port .container{
     background:black;
     padding: 30px;
-    
+
 }
 .port-title h2{
     font-size: 14px;
@@ -44,12 +44,12 @@
     color:white;
     padding-bottom: 1rem;
 }
-   
+
 @media (max-width:550px){
         .port-size{
               margin-left: 0;
               margin-right: 0;
-           
+
         }
 }
 
@@ -70,7 +70,7 @@
 /*footer*/
 .fot{
     padding: 20px;
-    
+
     height: 80px;
     text-align: center;
     background:  #2c3a47ef;
