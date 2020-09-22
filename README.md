@@ -27,12 +27,12 @@ The steps I took to make this responsive portfolio website:-
 	 	 "Cards" that creates beautiful responsive gallery layouts.
 
 
-	_ The last page is contact.httml Page .
+	- The last page is contact.html Page .
 
 
 		* I used similar layout for this page as well. This page used "Forms", that is 
 		  the main difference from the other pages. 
-		* It also contains links, button, Icons 
+		* It also contains links, button and Icons.
 
 3. Next I created style.css for each page. I didn't want to have one big CSS file. In the CSS files i added margins, padding, color, 
 
