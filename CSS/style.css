@@ -190,8 +190,8 @@ section .about{
  .text-me p{
     font-style: italic!important;
 }
- svg.bi.bi-arrow-right{
-    font-size: 25px;
+.about-icon ul i{
+    font-size: 20px;
     padding-right: 2px;
     color:  #F97F51;
 }
